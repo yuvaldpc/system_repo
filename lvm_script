@@ -8,10 +8,12 @@ than
 
 echo "its ok"
 
-else 
-
-	echo "its not ok" 
+elif [ $answer = 16 ]
+than	
+	echo "its ok"
 	
-fi 
-
-done
+	else 
+	
+		echo "go"
+		
+		fi
