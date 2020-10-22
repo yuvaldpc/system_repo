@@ -1,3 +1,17 @@
+!#/bin/bash
 
+echo "waht is the time now?"
+read answer
 
-echo "pv create" test
+if [ $answer = 12 ] 
+than
+
+echo "its ok"
+
+else 
+
+	echo "its not ok" 
+	
+fi 
+
+done
